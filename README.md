@@ -7,7 +7,6 @@ The objective is to demonstrate the application of distributed computing and sca
 
 Using Apache Spark and PySpark MLlib, the system efficiently processes millions of taxi trip records to build predictive models for fare estimation.
 
----
 
 ## Problem Statement
 Traditional data processing solutions struggle to handle large-scale transportation datasets.
@@ -23,7 +22,6 @@ The solution supports:
 - Demand forecasting
 - Urban mobility operational improvements
 
----
 
 ##  Methodology
 
@@ -41,7 +39,6 @@ The solution supports:
 - Payment type
 - Pickup & drop-off location IDs
 
----
 
 ##  Machine Learning Models Used
 
@@ -55,15 +52,13 @@ The following regression models were implemented using PySpark MLlib:
 ### Evaluation Metric
 - Root Mean Square Error (RMSE)
 
----
 
-## 📈 Key Findings
+## Key Findings
 
 - Ensemble models performed better than Linear Regression.
 - Random Forest and Gradient Boosted Trees achieved lower RMSE.
 - Non-linear models are more suitable for taxi fare prediction.
 
----
 
 ##  Technologies Used
 
@@ -74,7 +69,6 @@ The following regression models were implemented using PySpark MLlib:
 - Tableau
 - Parquet Data Format
 
----
 
 ##  Conclusion
 
