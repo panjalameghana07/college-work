@@ -8,7 +8,7 @@ The objective is to demonstrate the application of distributed computing and sca
 Using Apache Spark and PySpark MLlib, the system efficiently processes millions of taxi trip records to build predictive models for fare estimation.
 
 
-# Problem Statement
+## Problem Statement
 Traditional data processing solutions struggle to handle large-scale transportation datasets.
 
 This project addresses this challenge by implementing a scalable analytics workflow that:
