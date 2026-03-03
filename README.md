@@ -1,6 +1,6 @@
 #  Machine Learning Analysis of NYC Taxi Dataset
 
-# Project Overview
+## Project Overview
 This project presents a full Big Data and Machine Learning pipeline designed to estimate taxi fare amounts using the NYC Yellow Taxi dataset.
 
 The objective is to demonstrate the application of distributed computing and scalable machine learning techniques on large-scale real-world transportation data.
@@ -23,14 +23,14 @@ The solution supports:
 - Urban mobility operational improvements
 
 
-#  Methodology
+##  Methodology
 
-# Data Processing
+### Data Processing
 - Input Format: Parquet files
 - Data cleaning and preprocessing
 - Feature engineering
 
-# Key Features Engineered
+### Key Features Engineered
 - Pickup hour
 - Day of week
 - Month
@@ -40,7 +40,7 @@ The solution supports:
 - Pickup & drop-off location IDs
 
 
-#  Machine Learning Models Used
+## Machine Learning Models Used
 
 The following regression models were implemented using PySpark MLlib:
 
@@ -49,18 +49,18 @@ The following regression models were implemented using PySpark MLlib:
 3. Random Forest Regression
 4. Gradient Boosted Trees
 
-# Evaluation Metric
+## Evaluation Metric
 - Root Mean Square Error (RMSE)
 
 
-# Key Findings
+## Key Findings
 
 - Ensemble models performed better than Linear Regression.
 - Random Forest and Gradient Boosted Trees achieved lower RMSE.
 - Non-linear models are more suitable for taxi fare prediction.
 
 
-#  Technologies Used
+##  Technologies Used
 
 - Apache Spark (PySpark)
 - PySpark MLlib
@@ -70,7 +70,7 @@ The following regression models were implemented using PySpark MLlib:
 - Parquet Data Format
 
 
-#  Conclusion
+##  Conclusion
 
 This project successfully demonstrates an end-to-end scalable Big Data machine learning workflow.
 
