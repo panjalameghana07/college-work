@@ -78,3 +78,18 @@ It highlights:
 - The importance of distributed analytics
 - The effectiveness of ensemble learning models
 - Practical application of machine learning in urban transportation systems
+
+ ## Tableau Dashboards link 
+
+**Dashboard1:**
+https://public.tableau.com/views/dashboard1_17726306967450/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+**Dashboard2:**
+https://public.tableau.com/views/dashboard2_17726311106960/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+**Dashboard3:** 
+https://public.tableau.com/views/dashboard3_17726314976960/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+**Dashboard4:**
+https://public.tableau.com/views/dashboard4_17726316704900/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
